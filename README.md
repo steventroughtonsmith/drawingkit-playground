@@ -7,4 +7,4 @@ Download: [ZIP](https://github.com/steventroughtonsmith/drawingkit-playground/re
 
 Screenshot
 ------
-[![](https://lh3.googleusercontent.com/jKcGwsig9JAZ5sWm0Cd4DkwvrCFCD6k2HQ27MUAw08jJoZVwuVuucwFhcBy-J5dXkiACrkxtem22VJLJGw0XIt-8I_8Mfz8)](https://lh3.googleusercontent.com/jKcGwsig9JAZ5sWm0Cd4DkwvrCFCD6k2HQ27MUAw08jJoZVwuVuucwFhcBy-J5dXkiACrkxtem22VJLJGw0XIt-8I_8Mfz8)
+[![](http://hccdata.s3.amazonaws.com/gh_drawingkit.jpg)](http://hccdata.s3.amazonaws.com/gh_drawingkit.jpg)
